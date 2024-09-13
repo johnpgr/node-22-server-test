@@ -7,6 +7,7 @@
         "dev": "node --watch --experimental-strip-types ./src/index.ts",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "type": "module",
     "keywords": [],
     "author": "johnpgr",
     "license": "MIT",
